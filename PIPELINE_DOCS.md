@@ -447,7 +447,7 @@ y_pred = dt.predict(X_test)
 
 # Đánh giá
 from src.metrics import accuracy, f1_score
-print(f"Accuracy: {accuracy(y_test, y_pred)}")  # → 0.9185
+print(f"Accuracy: {accuracy(y_test, y_pred)}")  # → 0.9144
 ```
 
 ---
