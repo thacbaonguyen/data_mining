@@ -1,5 +1,9 @@
-docs/
-*.md
 __pycache__
 *.pyc
+.DS_Store
+.Rhistory
+__MACOSX
+*.md
+docs/
 PIPELINE_DOCS.md
+.ipynb_checkpoints/
