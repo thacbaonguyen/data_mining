@@ -2,3 +2,4 @@ docs/
 *.md
 __pycache__
 *.pyc
+PIPELINE_DOCS.md
